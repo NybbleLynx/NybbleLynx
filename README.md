@@ -5,6 +5,7 @@
 * I have a bachleors degree in Electronic Engineering 🎓
 * I am the Data Controller for the IET Young Professionals Coventry and Warwickshire Committee 💽
 * Working on creating a YouTube channel. Topics will include:
+  * Ace in STEM 🖤🤍💜
   * Software Dev ⌨️
   * Tech Repairs 🔧
   * Gaming 🎮
