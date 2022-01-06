@@ -8,7 +8,8 @@
   * Gaming 🎮
 
 ### Current Projects 📓
-* [MindstormsSharp](https://github.com/NybbleLynx/MindstormsSharp) 🤖
+* [MindstormsSharp](https://github.com/NybbleLynx/MindstormsSharp) 🤖 - LEGO Mindstorms C# API
+* [Minecraft Recipe Tweaker](https://github.com/NybbleLynx/MCRecipeTweaker) 🔧 - An admin tool for tweaking recipes for a given Minecraft instance including Mod support
 
 ### How to reach me 📫
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NybbleLynx)
