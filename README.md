@@ -1,4 +1,5 @@
 ### Hi I'm Rob aka NybbleLynx 🐱👋
+* My pronouns are he/him 😄
 * I'm a Software Engineer at Siemens Mobility Limited 🚆
 * I have a bachleors degree in Electronic Engineering 🎓
 * I am the Data Controller for the IET Young Professionals Coventry and Warwickshire Committee 💽
