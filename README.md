@@ -1,6 +1,7 @@
 ### Hi I'm Rob aka NybbleLynx 🐱👋
-* My pronouns are he/him 😄
 * I'm a Software Engineer at Siemens Mobility Limited 🚆
+* I'm an aroace man (Demisexual/Demiromantic) 🖤🤍💜
+* My pronouns are he/him 😄
 * I have a bachleors degree in Electronic Engineering 🎓
 * I am the Data Controller for the IET Young Professionals Coventry and Warwickshire Committee 💽
 * Working on creating a YouTube channel. Topics will include:
@@ -9,6 +10,7 @@
   * Gaming 🎮
 
 ### Current Projects 📓
+* NybbleLynx Tools 🛠 - A set of common code to be used in other projects.
 * Mindstorms Sharp 🤖 - LEGO Mindstorms C# API for controlling and interacting with LEGO robots
 * Minecraft Recipe Tweaker 🔧 - An admin tool for tweaking recipes for a given Minecraft instance including Mod support
 
