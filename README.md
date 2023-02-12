@@ -1,6 +1,5 @@
 ### Hi I'm Rob aka NybbleLynx 🐱👋
 * I'm a Software Engineer at Siemens Mobility Limited 🚆
-* I'm an aroace man (Demisexual/Demiromantic) 🖤🤍💜
 * My pronouns are he/him 😄
 * I have a bachleors degree in Electronic Engineering 🎓
 * I am the Data Controller for the IET Young Professionals Coventry and Warwickshire Committee 💽
