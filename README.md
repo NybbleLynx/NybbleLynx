@@ -1,11 +1,11 @@
-### Hi I'm Rob aka NybbleLynx 🐱👋
+<!--### Hi I'm Rob aka NybbleLynx 🐱👋
 
 ### Current Projects 📓
 * NybbleLynx Tools 🛠 - A set of common code to be used in other projects.
 
 ### Planned Projects
 * Minecraft Recipe Builder - A tool for modded minecraft to build CraftTweaker scripts using a GUI.
-* Mindstorms Sharp 🤖 - LEGO Mindstorms C# API for controlling and interacting with LEGO robots.
+* Mindstorms Sharp 🤖 - LEGO Mindstorms C# API for controlling and interacting with LEGO robots.-->
 
 <!--
 **NybbleLynx/NybbleLynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
