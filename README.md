@@ -1,11 +1,14 @@
-<!--### Hi I'm Rob aka NybbleLynx 🐱👋
+### Hi I'm Rob aka NybbleLynx 🐱👋
+
+I'm a Software Engineer at Siemens Mobility UK. Backend developer programming mostly in C# plus other languages (C++, C).
 
 ### Current Projects 📓
-* NybbleLynx Tools 🛠 - A set of common code to be used in other projects.
+No active projects.
+<!--* NybbleLynx Tools 🛠 - A set of common code to be used in other projects.-->
 
 ### Planned Projects
-* Minecraft Recipe Builder - A tool for modded minecraft to build CraftTweaker scripts using a GUI.
-* Mindstorms Sharp 🤖 - LEGO Mindstorms C# API for controlling and interacting with LEGO robots.-->
+* Minecraft Recipe Builder - A tool for modded minecraft to modify modpack recipes using a GUI.
+* Mindstorms Sharp 🤖 - LEGO Mindstorms C# API for controlling and interacting with LEGO robots.
 
 <!--
 **NybbleLynx/NybbleLynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
